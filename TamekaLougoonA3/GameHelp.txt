@@ -1,0 +1,23 @@
+For your journey, I present you with the Soulsiphon staff. It is a powerful weapon but can only work from a distance, so be careful not to get too close or you will have a 
+nasty witch on your hands with nothing to defend yourself. Unfortunately, it is an ancient artifact so I can't guarantee its stability. I would suggest only using it 
+the recommended number of times, or the magic it's infused with may become unstable and attack you instead. 
+
+With each turn, you may move to an adjacent land, using one of the listed possible routes via a portal (be wary; you are already weak, your body will only be able to handle 
+a portal so many times) or call upon the power of the staff (shoot direction) hopefully hitting the witch and killing her! 
+If you miss, you could be in trouble...
+
+When you enter a new area, if you are one land away from the Witch or another hazard, you will be given a warning about what is in one (or more) of the lands 
+leading from your current location. However, you won't be told which direction in which it lies.
+
+QUICKSAND lays throughout the lands, appearing in large pits which are near impossible to escape. It said that if you fall in  deep enough, you'll fall all the way
+through to another land. 
+Be aware of your surroundings and watch your step!
+
+CORRUPTED CRYPTS hold the dead that were unable to find peace in the afterlife. They lay there, restless and growing more agitated with each day that passes, until an 
+unsuspecting traveler wanders into their clutches and joins their ranks. 
+Don't be their next victim.
+
+THE WITCH is a terrible woman who has been terrorizing the lands for centuries. She is the most powerful woman known to man, so if she sees you, your fate is certain. 
+With her power, nothing can stand in her way, so she roams the lands freely.
+
+Use Q to quit, M to display map and H to access this information again. Use any of the permitted directions in order to move around the map.
